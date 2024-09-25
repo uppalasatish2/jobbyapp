@@ -1,0 +1,23 @@
+2024-06-10 08:45:00.231 [info] 
+
+
+
+
+2024-06-10 08:45:00.258 [info] Extension host agent started.
+2024-06-10 08:45:03.471 [info] [127.0.0.1][99cc022a][ManagementConnection] New connection established.
+2024-06-10 08:45:03.803 [info] [127.0.0.1][df3f1376][ExtensionHostConnection] New connection established.
+2024-06-10 08:45:07.109 [info] [127.0.0.1][df3f1376][ExtensionHostConnection] <1096> Launched Extension Host Process.
+2024-06-10 09:09:07.206 [info] [127.0.0.1][99cc022a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-06-10 09:09:07.281 [info] [127.0.0.1][df3f1376][ExtensionHostConnection] <1096> Extension Host Process exited with code: 0, signal: null.
+2024-06-10 09:09:12.653 [info] [127.0.0.1][e7760552][ManagementConnection] New connection established.
+2024-06-10 09:09:12.959 [info] [127.0.0.1][9a78c6af][ExtensionHostConnection] New connection established.
+2024-06-10 09:09:12.977 [info] [127.0.0.1][9a78c6af][ExtensionHostConnection] <1207> Launched Extension Host Process.
+2024-06-10 09:10:15.096 [info] [127.0.0.1][e7760552][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-06-10 09:10:15.170 [info] [127.0.0.1][9a78c6af][ExtensionHostConnection] <1207> Extension Host Process exited with code: 0, signal: null.
+2024-06-10 09:10:25.927 [info] [127.0.0.1][324752fb][ManagementConnection] New connection established.
+2024-06-10 09:10:26.176 [info] [127.0.0.1][d70c5897][ExtensionHostConnection] New connection established.
+2024-06-10 09:10:26.198 [info] [127.0.0.1][d70c5897][ExtensionHostConnection] <1275> Launched Extension Host Process.
+2024-06-10 09:49:52.634 [info] [127.0.0.1][d70c5897][ExtensionHostConnection] The client has reconnected.
+2024-06-10 09:49:53.014 [info] [127.0.0.1][324752fb][ManagementConnection] The client has reconnected.
+2024-06-10 10:09:02.939 [info] [127.0.0.1][d70c5897][ExtensionHostConnection] The client has reconnected.
+2024-06-10 10:09:03.453 [info] [127.0.0.1][324752fb][ManagementConnection] The client has reconnected.

@@ -1,0 +1,2 @@
+
+Welcome to Google Cloud Shell, a tool for managing resources hosted on Google Cloud Platform!
